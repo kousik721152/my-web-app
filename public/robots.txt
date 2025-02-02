@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.tkqlhce.com/click-101300629-15820774?sid=7016661/sitemap-index.xml
